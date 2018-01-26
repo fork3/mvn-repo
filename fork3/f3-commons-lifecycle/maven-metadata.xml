@@ -3,10 +3,12 @@
   <groupId>fork3</groupId>
   <artifactId>f3-commons-lifecycle</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.0.2</release>
     <versions>
+      <version>1.0.0</version>
       <version>1.0.1</version>
+      <version>1.0.2</version>
     </versions>
-    <lastUpdated>20180126104945</lastUpdated>
+    <lastUpdated>20180126110245</lastUpdated>
   </versioning>
 </metadata>
