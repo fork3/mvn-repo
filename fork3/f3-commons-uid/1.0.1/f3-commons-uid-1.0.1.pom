@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>fork3</groupId>
   <artifactId>f3-commons-uid</artifactId>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <dependencies>
     <dependency>
       <groupId>org.projectlombok</groupId>
